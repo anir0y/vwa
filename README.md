@@ -1,6 +1,8 @@
 # VWA Lab for Classroom Training
 
-this lab is designed and developved by @anir0y this is a way to teach students about common mistakes made by devs
+|||
+|---|---|
+|![img](https://raw.githubusercontent.com/anir0y/cdn/0f5c11d25e25e1d5f1ffc749c9425346b3069b62/VWA%20(Circle%20Sticker).svg)|this lab is designed and developved by [@anir0y](https://twitter.com/anir0y) this is a way to teach students about common mistakes made by dev|
 
 
 # setting up local web-application server
