@@ -68,17 +68,18 @@ INSERT INTO `userlogin` (`id`, `username`, `password`)VALUES (1, 'admin', 'a1857
 
 * open `dbconf.php` add the creds:
 
-````php
+```php
+
 # old
 new mysqli("127.0.0.1", "useradm", "useradm", "userdb");
 
 # new
 new mysqli("127.0.0.1", "dbadmin", "dbadmin@123", "users");
-
 ```
 
 
 ### Talk to me 
   - mail@anir0y.in
+  - tweet: [@anir0y](https://twitter.com/anir0y)
   
----
+
